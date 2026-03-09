@@ -1,4 +1,4 @@
-# elevator_fault_detection
+# Elevator Fault Detection
 
 ### Overview
 
