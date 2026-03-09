@@ -22,3 +22,9 @@
    - **Fault State** (binary)
    - **Fault Category** (category)
    - **Fault Severity** (ordinal)
+
+### EDA
+<img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/a0eb8d36-6076-4ed8-9b76-c1f7cadfdcac" />
+
+<img width="1479" height="468" alt="image" src="https://github.com/user-attachments/assets/3b787616-0e22-4a7c-85b1-272cdac9b2a8" />
+
