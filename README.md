@@ -18,7 +18,7 @@
 7. Advanced Diagnostic
 8. Predictive
    - RUL (Remaining Useful Life)
-   - Health Indices
+   - Health Indices (Composite Score)
 9. Target Labels
    - Fault State (binary)
    - Fault Category (category)
@@ -26,7 +26,8 @@
 
 
 ### EDA
-<img width="1479" height="468" alt="image" src="https://github.com/user-attachments/assets/3b787616-0e22-4a7c-85b1-272cdac9b2a8" />
+<img width="1247" height="430" alt="image" src="https://github.com/user-attachments/assets/ea38fdfe-dcda-4ae6-8a50-e33f55c0e36d" />
+
 
 <img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/a0eb8d36-6076-4ed8-9b76-c1f7cadfdcac" />
 
